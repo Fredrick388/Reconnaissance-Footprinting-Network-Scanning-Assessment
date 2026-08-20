@@ -41,7 +41,9 @@ Tools Used:
  
 - Google Search
 - Google Hacking Database (GHDB)
- 
+
+
+ 
 Activities:
  
 - Google Dorking
@@ -55,7 +57,9 @@ Activities:
 Tools Used:
  
 - Maltego
- 
+
+
+
 Activities:
  
 - Domain analysis
@@ -73,7 +77,9 @@ Target:
 Tools Used:
  
 - theHarvester
- 
+
+
+
 Activities:
  
 - Email enumeration
@@ -97,6 +103,9 @@ Tools Used:
  
 - Zenmap
 - Windows Command Prompt
+
+
+
  
 Activities:
  
