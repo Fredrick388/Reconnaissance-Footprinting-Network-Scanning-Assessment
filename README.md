@@ -116,3 +116,45 @@ Activities:
  
 ---
  
+ ## Risk Analysis Summary 
+| Finding | Risk | 
+|----------|--------| 
+| Web Technology Exposure | Medium | 
+| DNS Information Disclosure | Medium | 
+| Public Email Exposure | Medium | 
+| Public Subdomain Exposure | Medium | 
+| Search Engine Indexed Resources | Medium | 
+| Network Host Discovery | Medium | 
+| HTTP Information Disclosure | Low | 
+| Server IP Disclosure | Low | 
+| WAF Identification | Low | 
+
+
+--- 
+
+## Key Learning Outcomes 
+
+- Performed passive reconnaissance against public targets.
+- Collected OSINT using multiple information sources.
+- Identified exposed technologies and DNS infrastructure.
+- Enumerated email addresses and subdomains.
+- Used Google Dorks for intelligence gathering.
+- Conducted local network discovery using Zenmap.
+- Documented findings, risks, and recommendations professionally.
+
+
+--- 
+
+
+## Disclaimer 
+
+This project was conducted only against authorized systems and within the approved scope of educational cybersecurity exercises. The materials are provided solely for learning and research purposes. Unauthorized access to systems, networks, or data is illegal and may result in legal consequences. 
+
+--- 
+
+
+## Author Fredrick Musonda 
+
+Networkwalks Cybersecurity & Ethical Hacking Internship 
+
+Week 2 Project
