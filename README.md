@@ -116,4 +116,3 @@ Activities:
  
 ---
  
-## Project Structure
