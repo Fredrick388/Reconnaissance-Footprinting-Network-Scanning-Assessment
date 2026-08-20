@@ -22,6 +22,8 @@ Tools Used:
 - Curl
 - Wafw00f
 - DNSRecon
+
+  
  
 Activities:
  
