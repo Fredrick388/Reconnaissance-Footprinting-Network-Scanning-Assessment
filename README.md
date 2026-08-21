@@ -351,25 +351,6 @@ The exercise reinforced the importance of reducing information exposure and main
  
 ---
  
-# Evidence
- 
-### theHarvester Enumeration
-![EMBEDDEDIMAGE](placeholder-0)
- 
-### Zenmap Network Discovery
-![EMBEDDEDIMAGE](placeholder-1)
- 
-### DNS and Reconnaissance Activities
-![EMBEDDEDIMAGE](placeholder-2)
- 
-### Footprinting Results
-![EMBEDDEDIMAGE](placeholder-3)
- 
-### Additional Scan Results
-![EMBEDDEDIMAGE](placeholder-4)
- 
----
- 
 # Conclusion
  
 During Week 2 of the Cybersecurity & Ethical Hacking Internship at Networkwalks, practical exercises involving footprinting, OSINT gathering, reconnaissance, and network scanning were successfully completed.
@@ -381,6 +362,8 @@ These exercises strengthened practical skills in ethical hacking while reinforci
 ---
  
 **Author:** Fredrick Musonda
+
 **Role:** Cybersecurity Professional
+
 **Assessment Type:** Reconnaissance, Footprinting & Network Scanning
 `
